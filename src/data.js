@@ -7,22 +7,12 @@ export const questions = [
 export const suggestions = [
   {
     title:
-      "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.",
+      "Lorem Ipsum.",
     desc: "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.",
   },
   {
     title:
-      "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.",
-    desc: "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.",
-  },
-  {
-    title:
-      "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.",
-    desc: "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.",
-  },
-  {
-    title:
-      "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.",
+      "Lorem Ipsum.",
     desc: "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.",
   },
 ];
