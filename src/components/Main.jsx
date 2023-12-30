@@ -74,8 +74,8 @@ const Main = () => {
                 key={index}
                 className=" flex flex-col items-start p-2 rounded-lg border border-gray-600 cursor-pointer"
               >
-                <p className="text-sm text-[#c5c5d2]">{s.title}</p>
-                <p className="text-sm font-bold text-[#585757]">{s.desc}</p>
+                <p className="text-sm text-white font-bold">{s.title}</p>
+                <p className="text-sm text-[#c5c5d2]">{s.desc}</p>
               </div>
             ))}
           </div>
